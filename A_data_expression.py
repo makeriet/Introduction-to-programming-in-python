@@ -1,9 +1,10 @@
 
+#keywords
+
 #1. Commenting
 
 #2. First program
 print("Hello World!")
-
 
 
 #3. Variables and Data Types
@@ -28,14 +29,6 @@ String to Int
 #Example A: Ask user to input length and breadth and find
 # area and perimeter of rectangle.
 
-length = float(input("Enter length:"))
-breadth = float(input("Enter breadth:"))
-
-area = length * breadth
-perimeter = 2 * (length+breadth)
-
-print("The area of rectangle is: ", area)
-print("The perimeter of rectangle is:", perimeter)
 
 
 
