@@ -1,6 +1,3 @@
-
-#keywords
-
 #1. Commenting
 
 #2. First program
